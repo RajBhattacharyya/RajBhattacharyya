@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajbhattacharyya&label=Profile%20views&color=0e75b6&style=flat" alt="rajbhattacharyya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajbhattacharyya" alt="rajbhattacharyya" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RajBhattacharyya&theme=onedark&row=1&column=7"" alt="rajbhattacharyya" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/raj_frrr" target="blank"><img src="https://img.shields.io/twitter/follow/raj_frrr?logo=twitter&style=for-the-badge" alt="raj_frrr" /></a> </p>
+  
+<img align="right" height="300" alt="𝙶𝙸𝙵" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzE1NzhhNGVkNDkxNWE5YjUxNDFjNzg1YzdmZjI3ZGRhNTFjNzIzZSZjdD1z/HoFaw1i73cMbM57uiW/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 - 🔭 I’m currently working on **keploy**
 
