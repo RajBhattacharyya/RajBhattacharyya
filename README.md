@@ -3,23 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajbhattacharyya&label=Profile%20views&color=0e75b6&style=flat" alt="rajbhattacharyya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RajBhattacharyya&theme=onedark&row=1&column=7"" alt="rajbhattacharyya" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/raj_frrr" target="blank"><img src="https://img.shields.io/twitter/follow/raj_frrr?logo=twitter&style=for-the-badge" alt="raj_frrr" /></a> </p>
   
-<img align="right" height="300" alt="𝙶𝙸𝙵" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzE1NzhhNGVkNDkxNWE5YjUxNDFjNzg1YzdmZjI3ZGRhNTFjNzIzZSZjdD1z/HoFaw1i73cMbM57uiW/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" height="300" alt="𝙶𝙸𝙵" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZiaGdreWRvMWl6cHdqOTM0Y3Y1dHFmdDB1MDc5Yjl4MG9rNXpldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UVo2C3sfjWOyOpwc2y/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-- 🔭 I’m currently working on **keploy**
+- 🔭 I’m currently working on **Banao Technologies**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **WEB3.0**
 
-- 👯 I’m looking to collaborate on **Web dev**
+- 👯 I’m looking to collaborate on **Web/App dev**
 
-- 🤝 I’m looking for help with **ReactJS**
+- 🤝 I’m looking for help with **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RajBhattacharyya](https://github.com/RajBhattacharyya)
 
-- 💬 Ask me about **react, python and c++**
+- 💬 Ask me about **flutter, Dart, React, NEXT, python and c++**
 
 - 📫 How to reach me **rajbhattacharyya18110@gmail.com**
 
